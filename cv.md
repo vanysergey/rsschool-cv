@@ -1,22 +1,22 @@
 # rsschool-cv
 
 # Sergey Vaniukov
-===
+
 ## Contacts
-===
+
 * Location: Minsk, Belarus 
 * Phone: +375 44 573-67-23 
 * Email: vanysergey89@gmail.com 
 * GitHub: vanysergey
-===
+
 ## About me
 
 I am 31 years old. Graduated from GSTU as energy engineer. I work with security systems (fire, burglar alarms, access control systems, video surveillance systems) . Now i understand that i want to chage something in my life. I want to become JS:)
-===
+
 ## Skills
 
 I have no skills in JS but i am in progress
-===
+
 ## Code examples
 
 ```
@@ -44,17 +44,17 @@ class Ideone {
     }
 }
 ```
-====
+
 ## Work experience
 
 Have no experience
-===
+
 ## Education and courses:
 
 * Gomel State Technical University named after P.O. Sukhoi  
 * Courses: 
     + Skillbox: Introduction to programming 
     + JavaScript/Front-end Course (in progress) 
-===
+
 ## English 
 English level - A2 
