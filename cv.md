@@ -11,7 +11,7 @@
 
 ## About me
 
-I am 31 years old. Graduated from GSTU as energy engineer. I work with security systems (fire, burglar alarms, access control systems, video surveillance systems) . Now i understand that i want to chage something in my life. I want to become JS:)
+I am 31 years old. Graduated from GSTU as energy engineer. I work with security systems (fire, burglar alarms, access control systems, video surveillance systems) . I want to become JS.
 
 ## Skills
 
