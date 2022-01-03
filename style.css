@@ -1,0 +1,92 @@
+<style>
+ body {
+    font-family: 'Roboto', sans-serif;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+ }
+  
+ * {
+    box-sizing: border-box;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    list-style: none;
+    padding: 0 20px;
+    line-height: 5px;
+    
+  } 
+  .nav-link  {
+    text-decoration: none;
+    color: #fffb00b4;
+    transition: color 0.5s;
+
+  }
+   .my photo {
+    justify-content: center;
+
+   }     
+  .center { /* Левая колонка */
+    width: 100%;
+    justify-content: flex-start;
+    align-items: stretch;
+    border: 1px solid #303131;
+    background-color: #6c6d6d;
+   }
+  
+   .header{
+    max-width: 1200px;
+    margin: 0 auto;  
+    border: 1px solid #4a4b4b;
+    box-sizing: border-box;
+    background-color: #8f9191;
+   }
+   .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 5 px;
+    font-size: 14px;
+    font-weight: 400;
+    text-indent: 20px;
+    line-height: 1.5;
+    color: #fffb00b4;
+   }
+   .code {
+      display: block;
+      font-family: monospace;
+      white-space: pre;
+      margin: 1em 0px;
+   }
+
+   .footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8f9191;
+    color: rgb(0, 0, 0); 
+ }
+ 
+ .footer-rsschool > a > img, .rss {
+    width: 110px;
+    background-color: #8f9191;
+    padding: 0px;
+    margin: 0px; 
+ }
+ 
+ .footer-year, .footer-github {
+    width: 110px;
+    
+    background-color: #8f9191;
+    padding: 0px;
+    margin-left: 0px; 
+}
+ 
+   
+</style>
