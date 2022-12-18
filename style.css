@@ -1,0 +1,158 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 1440px;
+}
+.html {
+    scroll-behavior: smooth;
+}
+
+/*header*/
+
+.header {
+    background-color: #414A4C;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    list-style: none;
+    padding: 0 10px;
+    line-height: 50px;
+
+}
+.nav-link {
+    text-decoration: none;
+    color: gold;
+    transition: color 0.5s;
+    padding: 30px;
+}
+/*main*/
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.left_column {
+    width: 30%;
+    color: white;
+    background-color: #262626;
+}
+.center_column {
+    width: 5%;
+    background-color: #262626;
+}
+.right_column  {
+    width: 65%;
+    color: white;
+    background-color: #262626;
+}
+
+/*Contact*/
+.wrapper {
+    background-color: gold;
+    padding-bottom: 50px;
+    border-radius: 0 0 25px 0;
+}
+.icon {
+    width: 20px;
+    height: 20px;
+    padding-right: 10px;
+}
+.section-contacts {
+    padding-left: 20px;
+}
+.contacts {
+    color: black;
+    padding: 10px 30px;
+    line-height: 25px;
+}
+.contact {
+   list-style-type:none;
+}
+.photo {
+    width: 40%;
+    display:block;
+    margin:auto 15%;
+}
+
+/*Skills*/
+.skills {
+    padding-left: 50px;
+    line-height: 20px;
+}
+
+/*languages*/
+.languages {
+    padding-left: 50px;
+    line-height: 20px;
+}
+
+/*profile*/
+.profile {
+    text-align: center;
+}
+.h1-section-title {
+    font-size: 350% !important;
+}
+.profile-h2 {
+    color: black;
+    background-color: gold;
+    height: 50px;
+    width: 40%;
+    border-radius: 25px;
+    margin-left: 280px;
+}
+
+/*about_me*/
+.about_me {
+    padding: 10px;
+    line-height: 35px;
+}
+/*Education_and_courses*/
+.Education_and_courses{
+    padding: 10px;
+    line-height: 35px;
+}
+/*Project*/
+.Project {
+    background-color: gold;
+    border-radius: 25px 0 0 0;
+    color: black;
+    padding: 10px;
+}
+/*footer*/
+
+.footer {
+    background-color: #414A4C;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    color: white;
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+.footer__rsschool {
+    width: 32px;
+    height: auto;
+    background-color: gray;
+
+}
+.footer__github {
+    text-decoration: none;
+    color: gold;
+    transition: color 0.5s;
+    padding-left: 20px;
+}
+.footer__year {
+    color: gold;
+    padding-right: 20px;
+}
